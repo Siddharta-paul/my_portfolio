@@ -32,7 +32,7 @@ export const Contact = () => {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          Authorization: "Bearer f12200ba0d8d47171688b99e5ee160c3-us12",
+          Authorization: "Bearer {user_api_key}}",
         },
         body: JSON.stringify({
           email_address: formDetails.email,
