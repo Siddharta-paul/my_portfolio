@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import headerImg from "../assets/img/vecteezy_3d-work-with-laptop_12421875_622.png";
+import headerImg from "../assets/img/boy_with_laptop.png";
 import { ArrowRightCircle } from 'react-bootstrap-icons';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -12,7 +12,7 @@ export const Banner = () => {
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
   const toRotate = [ "Electronics and Instrumentation Engineer", "Web Developer", "Software Tester" ];
-  const period = 500;
+  const period = 100;
 
   useEffect(() => {
     let ticker = setInterval(() => {

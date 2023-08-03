@@ -247,7 +247,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .banner {
   margin-top: 0;
   padding: 260px 0 100px 0;
-  background-image: url('./assets/img/5438748.jpg');
+  background-image: url('./assets/img/Background_comp.jpg');
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -596,6 +596,15 @@ background: linear-gradient(90deg, rgba(27,6,41,1) 0%, rgba(255,255,255,1) 60%);
   right: 0;
   z-index: -4;
 }
+
+.card-link {
+  color: white; 
+}
+
+.card-link:hover {
+  color: white; 
+}
+
 
 /************ Experience Css ************/
 .table-responsive {

@@ -1,37 +1,41 @@
+import React from "react";
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
-import { ProjectCard } from "./ProjectCard";
-import projImg1 from "../assets/img/Grafiika.png";
-import projImg2 from "../assets/img/scrapper.jpg";
-import projImg3 from "../assets/img/automate.jpg";
-import projImg4 from "../assets/img/portfolio.png";
-import projImg5 from "../assets/img/inprogress.jpg";
-import projImg6 from "../assets/img/Coming_soon.jpg";
+import ProjectCard from "./ProjectCard";
+import projImg1 from "../assets/img/grafiika_comp.png";
+import projImg2 from "../assets/img/scrapper-comp.jpg";
+import projImg3 from "../assets/img/automate_comp.jpg";
+import projImg4 from "../assets/img/portfolio_comp.png";
+import projImg5 from "../assets/img/inprogress_comp.jpg";
+import projImg6 from "../assets/img/coming Soon_comp.jpg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
 export const Projects = () => {
-
   const projects = [
     {
       title: "Grafiika - A Startup",
       description: "Design & Development",
       imgUrl: projImg1,
+      link: "https://grafiika.netlify.app/", 
     },
     {
       title: "Web Scrapper",
       description: "Scrape Data from Website",
       imgUrl: projImg2,
+      link: "https://github.com/Siddharta-paul/web_scrapper"
     },
     {
       title: "Automation Testing",
       description: "Test Scripts using Selenium",
       imgUrl: projImg3,
+      link: "https://github.com/Siddharta-paul/gobillion-app-automation.git", 
     },
     {
       title: "My Portfolio",
       description: "Personal Portfolio",
       imgUrl: projImg4,
+      link: "#",
     },
     {
       title: "In progress",
