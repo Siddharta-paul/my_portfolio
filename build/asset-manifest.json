@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.881d44cb.css",
+    "main.js": "/static/js/main.cfa31de5.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/Background_comp.jpg": "/static/media/Background_comp.1fea08c0bf7ff38839bb.jpg",
+    "static/media/coming Soon_comp.jpg": "/static/media/coming Soon_comp.fa5990453d0a9294a43a.jpg",
+    "static/media/portfolio_comp.png": "/static/media/portfolio_comp.404941ad17770bcf4fa5.png",
+    "static/media/boy_with_laptop.png": "/static/media/boy_with_laptop.9db9aac705d3485a6157.png",
+    "static/media/grafiika_comp.png": "/static/media/grafiika_comp.35f5d13c25b938753334.png",
+    "static/media/scrapper-comp.jpg": "/static/media/scrapper-comp.bd5a6a12005ad8c4711f.jpg",
+    "static/media/automate_comp.jpg": "/static/media/automate_comp.e7e157399d80e0cc6e33.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/inprogress_comp.jpg": "/static/media/inprogress_comp.d287cbd7a258b461a337.jpg",
+    "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/name_image_footer.png": "/static/media/name_image_footer.e60d959e8ca427ae513a.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/icon_github.svg": "/static/media/icon_github.16e281950010bf0a9f383c94bb1b72a2.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/index.html",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.881d44cb.css.map": "/static/css/main.881d44cb.css.map",
+    "main.cfa31de5.js.map": "/static/js/main.cfa31de5.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.881d44cb.css",
+    "static/js/main.cfa31de5.js"
+  ]
+}
